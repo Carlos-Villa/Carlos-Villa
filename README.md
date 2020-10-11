@@ -1,6 +1,6 @@
 ### Hi devs ✌️
 
-![Background image](https://media-exp1.licdn.com/dms/image/C5616AQEX1aerXrijFA/profile-displaybackgroundimage-shrink_200_800/0?e=1600905600&v=beta&t=4WeZpofT3dRVypS1cEi560soME5opTUWPJ7rZ6jfjfQ)
+![Background image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2018%2F09%2F25%2F621435-minimalism-programming-HTML.jpg&f=1&nofb=1)
 >
 👨‍💻 Software Development Engineer
 <!--
